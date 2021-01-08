@@ -481,7 +481,7 @@ if b > a:
 (C) return True
 (D) break
 ```
-### 送分
+### 
 ```
 42.
 x = 10
