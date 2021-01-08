@@ -438,7 +438,7 @@ print("A") if a > b else print("B")
 (C) B
 (D) A
 ```
-### (B)
+### (C)
 ```
 39.
 a = 50
@@ -451,6 +451,7 @@ print("A") if a > b else print("B") if a != b else print("!=")
 (C) B
 (D) 語法錯誤
 ```
+### (C)
 ```
 40.
 a = 77
@@ -465,6 +466,7 @@ if a > b ___ c > a:
 (C) or
 (D) and
 ```
+### 若要讓程式印出True需在___中填入什麼？ (C) 
 ```
 41.
 a = 0
@@ -479,6 +481,7 @@ if b > a:
 (C) return True
 (D) break
 ```
+### ()
 ```
 42.
 x = 10
